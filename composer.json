@@ -1,12 +1,12 @@
 {
-  "name": "mathielen/import-engine-bundle",
+  "name": "steerfox/import-engine-bundle",
   "type": "symfony-bundle",
   "description": "A generic import (and export) -engine that provides easy to use yet powerful features",
   "keywords": [
     "csv",
     "import"
   ],
-  "homepage": "https://github.com/mathielen/ImportEngineBundle",
+  "homepage": "https://github.com/Steerfox/ImportEngineBundle",
   "license": "MIT",
   "authors": [
     {
